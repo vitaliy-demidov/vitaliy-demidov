@@ -18,7 +18,7 @@ I design and ship robust digital products at the intersection of **deterministic
 
 - **Agentic Architectures:** Autonomous multi-agent coordination, strict policy layers, evidence spans, tool execution policies.
 - **Frontend Systems:** Next.js 15, Svelte 5, TypeScript, Tailwind CSS, high-polish interactive decks & canvases.
-- **Transactional & Deal Engines:** Multi-party escrow settlement workflows, state machine validation, Telegram Mini Apps (TMA).
+- **Transactional & Deal Engines:** Multi-party escrow settlement workflows, state machine validation, transactional integrity.
 - **System Modeling:** Domain-driven route atlases, interactive executive roadmaps, clean system boundaries.
 
 ---
@@ -31,7 +31,7 @@ I design and ship robust digital products at the intersection of **deterministic
 | **[AI Relationship Assistant](https://github.com/vitaliy-demidov/ai-relationship-assistant-mvp)** | Privacy-First / Explainable AI | Local-First Engine, Heuristics, Vitest | [Source ↗](https://github.com/vitaliy-demidov/ai-relationship-assistant-mvp) |
 | **[Logistics Escrow](https://github.com/vitaliy-demidov/102-logistics-escrow)** | FinTech & Freight Workflows | Svelte, TypeScript, Multi-party Escrow | [Source ↗](https://github.com/vitaliy-demidov/102-logistics-escrow) |
 | **[Executive Route Deck](https://github.com/vitaliy-demidov/most-v4-3-visual-sense-deck)** | Executive Visual Presentation | Interactive Canvas, Visual Sense | [Source ↗](https://github.com/vitaliy-demidov/most-v4-3-visual-sense-deck) |
-| **[Dark Room TMA](https://github.com/vitaliy-demidov/dark-room)** | Telegram Mini App Experience | Mobile Web, High-Contrast UI | [Source ↗](https://github.com/vitaliy-demidov/dark-room) |
+| **[Resident Digital Experience](https://github.com/vitaliy-demidov/niceloft-resident-presentation)** | Real-Estate Tech & Showcase | Interactive Frontend, UI/UX | [Source ↗](https://github.com/vitaliy-demidov/niceloft-resident-presentation) |
 
 ---
 
@@ -42,7 +42,7 @@ AI & Agents         :: Codex, Hybrid Policy Guards, Tool Execution Schemas, Prom
 Languages           :: TypeScript, JavaScript, Python, SQL, Go (Basics)
 Client Ecosystem    :: Next.js 15, React, Svelte 5, Tailwind CSS, Radix UI, GSAP
 Backend & Storage   :: Node.js, Express, PostgreSQL, REST APIs, System Boundaries
-Distribution        :: Telegram Mini Apps (TMA), Docker, Git, CI/CD Actions
+Distribution        :: Enterprise Sandboxes, Docker, Git, CI/CD Actions
 ```
 
 ---
