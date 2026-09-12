@@ -1,12 +1,13 @@
 <div align="center">
 
 # Vitaliy Demidov
-### AI Systems Architect & Full-Stack Product Engineer
-**Astana, Kazakhstan • Multi-Agent Orchestration • High-Performance Web Systems**
+### Architect of Deterministic Multi-Agent Systems & Private Community Platforms
+**Astana, Kazakhstan • Multi-Agent Orchestration • Sovereign Communities • High-Performance Web Systems**
 
 [![Telegram](https://img.shields.io/badge/Direct-@vitalij__most-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/vitalij_most)
 [![GitHub](https://img.shields.io/badge/GitHub-vitaliy--demidov-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vitaliy-demidov)
-[![Focus](https://img.shields.io/badge/Focus-Enterprise%20Agents%20%26%20SaaS-gray?style=flat-square)](#)
+[![Hackathon](https://img.shields.io/badge/HackAlem-2026__Astana-00E5FF?style=flat-square&logo=target&logoColor=00E5FF)](#)
+[![Stack](https://img.shields.io/badge/Stack-Next.js%20%7C%20Svelte%205%20%7C%20TypeScript%20%7C%20Go-D4AF37?style=flat-square)](#)
 
 </div>
 
@@ -14,39 +15,42 @@
 
 ### 🧠 Engineering Philosophy & Core Focus
 
-I design and ship robust digital products at the intersection of **deterministic domain logic** and **autonomous AI agents**. My core focus is eliminating hallucinations and runtime failures through strict policy guards, type-safe contract schemas, and verifiable execution traces.
+I design and ship robust digital platforms at the intersection of **deterministic domain logic**, **autonomous multi-agent swarms**, and **private community ecosystems**. My work eliminates hallucinations and runtime liabilities through strict policy guards, type-safe contract schemas, and human-in-the-loop approval gates.
 
-- **Agentic Architectures:** Autonomous multi-agent coordination, strict policy layers, evidence spans, tool execution policies.
-- **Frontend Systems:** Next.js 15, Svelte 5, TypeScript, Tailwind CSS, high-polish interactive decks & canvases.
-- **Transactional & Deal Engines:** Multi-party escrow settlement workflows, state machine validation, transactional integrity.
-- **System Modeling:** Domain-driven route atlases, interactive executive roadmaps, clean system boundaries.
+- **Deterministic Agent Swarms:** Multi-role coordination (Primary, Radar, Spec, Benchmark, Inspect, Jurist) with strict Policy Guards, verifiable fact provenance, and zero-price hallucination.
+- **Sovereign Community Platforms:** High-status private clubs, cryptographic access control, real-time encrypted messaging, and Zero-Leak content shields.
+- **Ultra-Fast Telegram Mini Apps:** Svelte 5 (Runes) and Next.js 14/15, haptic feedback, 60 FPS mobile performance, and native Telegram SDK integration.
+- **Executive Visual Decks & 3D WebGL:** Interactive domain-driven route atlases (Three.js, GSAP, Tailwind v4) replacing static slide decks with living software.
 
 ---
 
-### 🏛 Selected Codebases & Interactive Demos
+### 🏛 Flagship Codebases & Interactive Demos
 
 | Project | Focus / Domain | Key Stack | Live / Source |
 | :--- | :--- | :--- | :--- |
-| **[MVP Architecture Atlas](https://github.com/vitaliy-demidov/mvp-launch-os-architecture-atlas)** | System Design & Domain Modeling | Interactive Atlas, HTML5, DDD | [Live Demo ↗](https://vitaliy-demidov.github.io/mvp-launch-os-architecture-atlas/) |
-| **[AI Relationship Assistant](https://github.com/vitaliy-demidov/ai-relationship-assistant-mvp)** | Privacy-First / Explainable AI | Local-First Engine, Heuristics, Vitest | [Source ↗](https://github.com/vitaliy-demidov/ai-relationship-assistant-mvp) |
-| **[Logistics Escrow](https://github.com/vitaliy-demidov/102-logistics-escrow)** | FinTech & Freight Workflows | Svelte, TypeScript, Multi-party Escrow | [Source ↗](https://github.com/vitaliy-demidov/102-logistics-escrow) |
-| **[Executive Route Deck](https://github.com/vitaliy-demidov/most-v4-3-visual-sense-deck)** | Executive Visual Presentation | Interactive Canvas, Visual Sense | [Source ↗](https://github.com/vitaliy-demidov/most-v4-3-visual-sense-deck) |
-| **[Resident Digital Experience](https://github.com/vitaliy-demidov/niceloft-resident-presentation)** | Real-Estate Tech & Showcase | Interactive Frontend, UI/UX | [Source ↗](https://github.com/vitaliy-demidov/niceloft-resident-presentation) |
+| **[AI Прораб (ai-prorab)](https://github.com/vitaliy-demidov/ai-prorab)** | **Deterministic Construction AI Swarm**<br/>Zero-Price Hallucination, Kazakh Norms (СНиП/ПУЭ), 25/25 Vitest Passing | Next.js 14, TypeScript, Policy Guard, Vitest | [Repository ↗](https://github.com/vitaliy-demidov/ai-prorab) |
+| **[Club 600 (club600)](https://github.com/vitaliy-demidov/club600)** | **Apex Private Membership Platform**<br/>AI Concierge, Member Discovery, Real-time P2P Chat, Zero-Leak Shield | React 18, Radix UI, TanStack Query, Recharts | [Live Demo ↗](https://club600.vercel.app)<br/>[Source ↗](https://github.com/vitaliy-demidov/club600) |
+| **[MVP Architecture Atlas](https://github.com/vitaliy-demidov/mvp-launch-os-architecture-atlas)** | **System Design & Domain Modeling**<br/>Living visual specification & DDD system map | Interactive Atlas, HTML5, DDD | [Live Demo ↗](https://vitaliy-demidov.github.io/mvp-launch-os-architecture-atlas/)<br/>[Source ↗](https://github.com/vitaliy-demidov/mvp-launch-os-architecture-atlas) |
+| **[Logistics Escrow](https://github.com/vitaliy-demidov/102-logistics-escrow)** | **FinTech & Freight Workflows**<br/>Multi-party escrow settlement workflows & deal lifecycle | Svelte 5 Runes, TypeScript, Escrow Engine | [Source ↗](https://github.com/vitaliy-demidov/102-logistics-escrow) |
+| **[Niceloft Presentation](https://github.com/vitaliy-demidov/niceloft-resident-presentation)** | **3D WebGL Resident Experience Deck**<br/>Spatial scrollytelling & architectural visual deck | React 19, Three.js WebGL, GSAP, Tailwind v4 | [Source ↗](https://github.com/vitaliy-demidov/niceloft-resident-presentation) |
+| **[AI Relationship Assistant](https://github.com/vitaliy-demidov/ai-relationship-assistant-mvp)** | **«Тёплый круг» — Local-First AI**<br/>Privacy-first relationship manager with zero external telemetry | Local Heuristics, Vitest, Zero Telemetry | [Source ↗](https://github.com/vitaliy-demidov/ai-relationship-assistant-mvp) |
+| **[MOST Visual Sense Deck](https://github.com/vitaliy-demidov/most-v4-3-visual-sense-deck)** | **Executive Route & Deal Navigator**<br/>Visual-first navigation system for high-capital syndicates | Interactive Canvas, Visual Sense | [Source ↗](https://github.com/vitaliy-demidov/most-v4-3-visual-sense-deck) |
 
 ---
 
-### ⚡ Technical Arsenal
+### ⚡ Technical Arsenal & Architecture Standards
 
 ```text
-AI & Agents         :: Codex, Hybrid Policy Guards, Tool Execution Schemas, Prompt Policies
-Languages           :: TypeScript, JavaScript, Python, SQL, Go (Basics)
-Client Ecosystem    :: Next.js 15, React, Svelte 5, Tailwind CSS, Radix UI, GSAP
-Backend & Storage   :: Node.js, Express, PostgreSQL, REST APIs, System Boundaries
-Distribution        :: Enterprise Sandboxes, Docker, Git, CI/CD Actions
+Multi-Agent AI      :: Policy Guards, Fact Provenance, Invariant Verifiers, Human-in-the-Loop Gates
+Languages           :: TypeScript (Strict), Python 3.11+, Go (Chi/pgx), SQL (PostgreSQL 16)
+Frontend Systems    :: Next.js (App Router), React 18/19, Svelte 5 (Runes), Radix UI, Tailwind CSS
+Visual & Graphics   :: Three.js (WebGL), GSAP (ScrollTrigger), SVG Vector Systems, Recharts
+State & Caching     :: TanStack Query v5, Redis, Local-First Persistence, Edge Routing
+Quality & Standards :: Vitest (100% Pass Rate), Strict Zod Schemas, C4 Container Modeling
 ```
 
 ---
 
 <div align="center">
-  <sub>Open for architecture discussions and high-impact AI product leadership.</sub>
+  <sub>Open for strategic architecture advisory, hackathon collaboration, and mission-critical multi-agent deployments.</sub>
 </div>
